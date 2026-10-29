@@ -1,0 +1,8 @@
+{
+  "name": "NestFind Montemorelos",
+  "description": "Plataforma inmobiliaria en Montemorelos, N.L. para rentar casas, departamentos y habitaciones con recorridos virtuales interactivos 360°.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
